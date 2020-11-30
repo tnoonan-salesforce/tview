@@ -1,4 +1,4 @@
-module github.com/rivo/tview
+module github.com/tnoonan-salesforce/tview
 
 go 1.12
 
